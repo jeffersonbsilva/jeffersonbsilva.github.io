@@ -21,7 +21,7 @@
   var theme = localStorage.getItem('pref-theme')
   document
     .querySelector('script[src="https://giscus.app/client.js"]')
-    .setAttribute('data-theme', theme)
+    .setAttribute('data-theme', theme === 'dark' ? 'noborder_gray' : 'light')
 </script>
 
 <script>
@@ -33,9 +33,10 @@
       'https://giscus.app'
     )
   }
-
   // Listen for theme changes and update giscus theme accordingly
   document.getElementById('theme-toggle').addEventListener('click', () => {
-    setGiscusTheme(document.body.className.includes('dark') ? 'light' : 'dark')
+    setGiscusTheme(
+      document.body.className.includes('dark') ? 'light' : 'noborder_gray'
+    )
   })
 </script>
