@@ -18,10 +18,12 @@
 
 <script>
   // Set the theme for giscus based on the user's preference
-  var theme = localStorage.getItem('pref-theme')
+  const theme = document.body.className.includes('dark')
+    ? 'noborder_gray'
+    : 'light'
   document
     .querySelector('script[src="https://giscus.app/client.js"]')
-    .setAttribute('data-theme', theme === 'dark' ? 'noborder_gray' : 'light')
+    .setAttribute('data-theme', theme)
 </script>
 
 <script>
