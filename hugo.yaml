@@ -1,5 +1,5 @@
 baseURL: 'https://jeffersonbsilva.com'
-title: Jefferson B. Silva
+title: Jefferson Bruno Silva
 theme: ['PaperMod']
 languageCode: en-us
 
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Jefferson B. Silva
+    title: Jefferson Bruno Silva
     subtitle: 'Senior Consultant @ Thoughtworks'
     imageUrl: 'profile-picture.jpg'
     imageWidth: 240
