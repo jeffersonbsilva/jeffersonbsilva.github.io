@@ -28,13 +28,6 @@
       <description>&lt;p&gt;About me page content goes here. You can include information about yourself, your interests, and anything else you&amp;rsquo;d like to share with your readers. This is a great place to introduce yourself and give context to your blog or website.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;You can reach me at&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
