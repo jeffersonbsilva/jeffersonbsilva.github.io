@@ -17,8 +17,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jefferson B. Silva
-  description: 'Contact, Blog, About, Projects, etc'
-  keywords: [Contact, Blog, About, Portfolio, Projects]
+  description: 'Blog, projects, contact, about...'
+  keywords: [contact, blog, about, portfolio, projects]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ['<link or path of image for opengraph, twitter-cards>']
@@ -68,6 +68,8 @@ params:
     buttons:
       - name: Posts
         url: posts
+      - name: Projects
+        url: projects
       - name: About me
         url: about
 
@@ -77,6 +79,8 @@ params:
     Content: Welcome to my blog.
 
   socialIcons:
+    - name: Email
+      url: 'mailto:jeffersonbrunoit@gmail.com'
     - name: X
       url: 'https://x.com/jeffersonbsilv'
     - name: Linkedin
