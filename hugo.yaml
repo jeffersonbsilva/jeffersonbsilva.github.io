@@ -3,6 +3,7 @@ title: Jefferson Bruno Silva
 theme: ['PaperMod']
 languageCode: en-us
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -14,14 +15,18 @@ minify:
   disableXML: true
   minifyOutput: true
 
+pagination:
+  disableAliases: false
+  pagerSize: 10
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jefferson B. Silva
   description: 'Blog, projects, contact, about...'
   keywords: [contact, blog, about, portfolio, projects]
-  author: Me
+  author: Jefferson B. Silva
   # author: ["Me", "You"] # multiple authors
-  images: ['<link or path of image for opengraph, twitter-cards>']
+  images: ['profile-picture.jpg']
   DateFormat: 'January 2, 2006'
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -48,20 +53,23 @@ params:
     favicon: 'favicon/favicon.ico'
     favicon16x16: 'favicon/favicon-16x16.png'
     favicon32x32: 'favicon/favicon-32x32.png'
-    apple_touch_icon: '<link / abs url>'
-    safari_pinned_tab: '<link / abs url>'
+    # apple_touch_icon: '<link / abs url>'
+    # safari_pinned_tab: '<link / abs url>'
 
   label:
     text: 'Home'
-    icon:
+    # icon:
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Jefferson Bruno Silva
-    subtitle: 'Senior Consultant @ Thoughtworks'
-    imageUrl: 'profile-picture.jpg'
+    subtitle: >
+      Senior Consultant @ [Thoughtworks](https://thoughtworks.com)
+
+        Welcome to my personal space.
+    imageUrl: 'about/profile-picture.jpg'
     imageWidth: 240
     imageHeight: 240
     imageTitle: Profile Picture
@@ -153,10 +161,37 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
     # style: monokai
+
+# privacy:
+#   vimeo:
+#     disabled: false
+#     simple: true
+
+#   twitter:
+#     disabled: false
+#     enableDNT: true
+#     simple: true
+
+#   instagram:
+#     disabled: false
+#     simple: true
+
+#   youtube:
+#     disabled: false
+#     privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true
