@@ -77,7 +77,7 @@ params:
       - name: Posts
         url: posts
       - name: Projects
-        url: projects
+        url: https://github.com/jeffersonbsilva
       - name: About me
         url: about
 
@@ -151,7 +151,7 @@ menu:
       weight: 30
     - identifier: projects
       name: Projects
-      url: /projects/
+      url: https://github.com/jeffersonbsilva
       weight: 40
     - identifier: about
       name: About
