@@ -145,4 +145,4 @@ If you want to get in touch, feel free to reach out through any of the platforms
 
 **LinkedIn**: [linkedin.com/in/jeffersonbrunosilva](https://linkedin.com/in/jeffersonbrunosilva)
 
-**GitHub**: [github.com/imns1ght](https://github.com/imns1ght)
+**GitHub**: [github.com/jeffersonbsilva](https://github.com/jeffersonbsilva)
