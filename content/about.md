@@ -46,44 +46,38 @@ If you want to know more about my professional background, feel free to visit my
 
 Working for the largest airline in Latin America, building a cross-platform application for Android and iOS using React Native.
 
-> Fun fact: I had the opportunity to work for one week at a client site in Santiago, Chile. It was an amazing experience to work with the team in person and explore the city. It was my first time traveling by plane and internationally, and I was really excited about it. :)
-
-{{< collapse summary="See some pictures from my trip to Santiago in March 2025." >}}
+> Random fact: I’ve had the chance to travel to Santiago, Chile three times for work. Each trip was a unique experience. I got to meet the team in person, explore the city, and work together on-site. The first one was special — it was my first time flying and traveling abroad.
+{{< collapse summary="See some pictures from my trips to Santiago in 2025." >}}
 {{< figure
   src="/about/santiago-chile-1.jpg"
   alt="View of one of the offices in Santiago"
   caption="View of one of the offices in Santiago"
   align="center"
 >}}
-
 {{< figure
   src="/about/santiago-chile-2.jpg"
   alt="View of one of the avenues in Santiago"
   caption="View of one of the avenues in Santiago"
   align="center"
 >}}
-
 {{< figure
   src="/about/santiago-chile-3.jpg"
   alt="Airplane view while flying over Brazil"
   caption="Airplane view while flying over Brazil"
   align="center"
 >}}
-
 {{< figure
   src="/about/santiago-chile-4.jpg"
   alt="Airplane view while flying over the Andes mountains"
   caption="Airplane view while flying over the Andes mountains"
   align="center"
 >}}
-
 {{< figure
   src="/about/santiago-chile-5.jpg"
   alt="A picture of Jefferson's bags in the hotel"
   caption="Saying goodbye to Santiago"
   align="center"
 >}}
-
 {{< /collapse >}}
 
 ### [Capgemini](https://www.capgemini.com/) – Digital Solutions Consultant IV
@@ -130,10 +124,6 @@ I earned my degree in Information Technology from [Universidade Federal do Rio G
   caption="Graduation photo with my colleagues"
   align="center"
 >}}
-
-I also had the opportunity to work on projects with my classmates, where I developed skills in teamwork, communication, and problem-solving.
-
-If you're interested in some of the projects I worked on during my studies, feel free to check out my [GitHub profile](https://github.com/jeffersonbsilva).
 
 ## Contact
 
