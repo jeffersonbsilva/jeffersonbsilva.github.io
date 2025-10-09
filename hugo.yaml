@@ -139,8 +139,8 @@ menu:
       name: Search
       url: /search/
       weight: 10
-    - identifier: blog
-      name: Blog
+    - identifier: posts
+      name: Posts
       url: /posts/
       weight: 20
     - identifier: categories
