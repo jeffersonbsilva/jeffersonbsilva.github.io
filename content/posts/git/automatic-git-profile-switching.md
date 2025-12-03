@@ -31,7 +31,7 @@ Committing to a client's repository with a personal handle is unprofessional and
 
 Before you start pushing code, you must identify yourself with at least a username and an email address. Every commit uses this information to record who made the change, ensuring accountability and history tracking.
 
-The username and email address are variables set using a built-in tool called git config. Git uses these configuration variables to control how it operates. Usually, these configuration variables are stored in two locations:
+The username and email address are variables set using a built-in tool called `git config`. Git uses these configuration variables to control how it operates. Usually, these configuration variables are stored in two locations:
 
 1. `~/.gitconfig`: Values specific to the current user
 2. `example-project/.git/config`: values specific to that single repository
