@@ -3,6 +3,7 @@ title: "Who am I?"
 url: "/about"
 disableShare: true
 hideMeta: true
+showtoc: false
 ---
 
 {{< figure

@@ -44,7 +44,7 @@ params:
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -63,7 +63,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: Jefferson Bruno Silva
     subtitle: >
       Senior Consultant @ [Thoughtworks](https://thoughtworks.com)
@@ -81,8 +81,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: 'Hey!'
-    Content: Welcome to my blog.
+    Title: "Hi, I'm Jeff."
+    Content: Senior Consultant @ [Thoughtworks](https://thoughtworks.com)
 
   socialIcons:
     - name: Email
