@@ -34,7 +34,7 @@ Before you start pushing code, you must identify yourself with at least a userna
 The username and email address are variables set using a built-in tool called `git config`. Git uses these configuration variables to control how it operates. Usually, these configuration variables are stored in two locations:
 
 1. `~/.gitconfig`: Values specific to the current user
-2. `example-project/.git/config`: values specific to that single repository
+2. `example-project/.git/config`: Values specific to that single repository
 
 ## The Standard Global Configuration
 
