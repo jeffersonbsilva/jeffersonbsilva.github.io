@@ -2,6 +2,7 @@
 title: "Who am I?"
 url: "/about"
 disableShare: true
+comments: false
 hideMeta: true
 showtoc: false
 ---
@@ -11,8 +12,8 @@ showtoc: false
   alt="A picture of Jefferson Bruno Silva"
   caption="Jefferson in Santiago, Chile"
   align="center"
-    width="350"
-    height="auto"
+  width="300"
+  height="auto"
 >}}
 
 I'm **Jefferson Bruno Silva**, a Senior Consultant at [Thoughtworks](https://www.thoughtworks.com/). Graduated in Information Technology from [Universidade Federal do Rio Grande do Norte (UFRN)](https://www.ufrn.br/).
@@ -20,6 +21,12 @@ I'm **Jefferson Bruno Silva**, a Senior Consultant at [Thoughtworks](https://www
 Born and based in [Natal, Brazil](https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte), I've always been passionate about technology — from assembling computers as a teenager to creating applications for millions of users around the world.
 
 I'm naturally curious and tend to hyperfocus when learning something new. My interests include Computers, Software Engineering, Gaming, Books, and Fitness (because staying healthy is a real challenge when you're a nerd :P).
+
+## Work Experience
+
+With over 6 years of professional experience dedicated to developing web and mobile applications, I have worked remotely with clients and colleagues across Latin America and Europe. I’m grateful for the opportunities I’ve had to collaborate with talented teams and to learn from diverse experiences.
+
+If you want to know more about my professional background, feel free to visit my [LinkedIn](https://linkedin.com/in/jeffersonbrunosilva) profile.
 
 ### Skills
 
@@ -35,51 +42,11 @@ I'm naturally curious and tend to hyperfocus when learning something new. My int
 
 **Miscellaneous**: Agile Methodologies (Scrum, Kanban), SDK Integration, Interviewing, Pair Programming, Code Review, Mobile App Accessibility.
 
-## Work Experience
-
-My career path has allowed me to work remotely with clients and colleagues across Latin America and Europe. I'm grateful for the opportunities I've had to collaborate with talented teams and to learn from diverse experiences.
-
-If you want to know more about my professional background, feel free to visit my [LinkedIn](https://linkedin.com/in/jeffersonbrunosilva) profile.
-
 ### [Thoughtworks](https://www.thoughtworks.com/) – Senior Consultant
 
 *2025 - Current* – Porto Alegre, Brazil
 
-Working for the largest airline in Latin America, building a cross-platform application for Android and iOS using React Native.
-
-> Random fact: I’ve had the chance to travel to Santiago, Chile three times for work. Each trip was a unique experience. I got to meet the team in person, explore the city, and work together on-site. The first one was special — it was my first time flying and traveling abroad.
-{{< collapse summary="See some pictures from my trips to Santiago in 2025." >}}
-{{< figure
-  src="/about/santiago-chile-1.jpg"
-  alt="View of one of the offices in Santiago"
-  caption="View of one of the offices in Santiago"
-  align="center"
->}}
-{{< figure
-  src="/about/santiago-chile-2.jpg"
-  alt="View of one of the avenues in Santiago"
-  caption="View of one of the avenues in Santiago"
-  align="center"
->}}
-{{< figure
-  src="/about/santiago-chile-3.jpg"
-  alt="Airplane view while flying over Brazil"
-  caption="Airplane view while flying over Brazil"
-  align="center"
->}}
-{{< figure
-  src="/about/santiago-chile-4.jpg"
-  alt="Airplane view while flying over the Andes mountains"
-  caption="Airplane view while flying over the Andes mountains"
-  align="center"
->}}
-{{< figure
-  src="/about/santiago-chile-5.jpg"
-  alt="A picture of Jefferson's bags in the hotel"
-  caption="Saying goodbye to Santiago"
-  align="center"
->}}
-{{< /collapse >}}
+Building a cross-platform mobile application for the largest airline in Latin America using React Native, TypeScript, and JavaScript. Key leadership achievements include leading architectural discovery for major releases, spearheading the adoption of a proprietary design system, and guiding a strategic redesign initiative as a technical anchor. I also mentored developers, ensured high-standard code quality through rigorous reviews, and championed app accessibility to ensure an inclusive experience for millions of users across the region.
 
 ### [Capgemini](https://www.capgemini.com/) – Digital Solutions Consultant IV
 
@@ -118,13 +85,6 @@ Contributed to the development of a React application to support C-level strateg
 >}}
 
 I earned my degree in Information Technology from [Universidade Federal do Rio Grande do Norte (UFRN)](https://www.ufrn.br/) in 2023. During my studies, I built a strong foundation in computer science and software engineering, covering topics such as programming languages, algorithms, data structures, databases, development methodologies, and computer networks.
-
-{{< figure
-  src="/about/graduation-photo.jpg"
-  alt="Graduation photo"
-  caption="Graduation photo with my colleagues"
-  align="center"
->}}
 
 ## Contact
 
