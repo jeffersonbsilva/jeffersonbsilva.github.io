@@ -10,7 +10,6 @@ showtoc: false
 {{< figure
   src="/about/profile-picture.jpg"
   alt="A picture of Jefferson Bruno Silva"
-  caption="Jefferson in Santiago, Chile"
   align="center"
   width="300"
   height="auto"
