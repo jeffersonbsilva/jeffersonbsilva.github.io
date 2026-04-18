@@ -57,27 +57,27 @@ params:
     # safari_pinned_tab: '<link / abs url>'
 
   label:
-    text: 'Home'
+    text: 'Jefferson B. Silva'
     # icon:
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true
     title: Jefferson Bruno Silva
-    subtitle: >
-      Senior Consultant @ [Thoughtworks](https://thoughtworks.com)
+    subtitle: |
+      Senior Mobile Engineer @ [Thoughtworks](https://thoughtworks.com)
+
+      Building mobile apps that reach millions of people across Latin America.
     imageUrl: 'about/profile-picture.jpg'
     imageWidth: 240
     imageHeight: 240
     imageTitle: Profile Picture
     buttons:
       - name: Posts
-        url: posts
-      - name: Projects
-        url: https://github.com/jeffersonbsilva
+        url: /posts/
       - name: About me
-        url: about
+        url: /about/
 
   # home-info mode
   homeInfoParams:
@@ -87,10 +87,10 @@ params:
   socialIcons:
     - name: Email
       url: 'mailto:contact@jeffersonbsilva.com'
-    - name: X
-      url: 'https://x.com/jeffersonbsilv'
     - name: Linkedin
       url: 'https://linkedin.com/in/jeffersonbrunosilva'
+    - name: X
+      url: 'https://x.com/jeffersonbsilv'
     - name: GitHub
       url: 'https://github.com/jeffersonbsilva'
 
@@ -133,26 +133,18 @@ outputs:
 
 menu:
   main:
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 10
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 20
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 30
-    - identifier: projects
-      name: Projects
-      url: https://github.com/jeffersonbsilva
-      weight: 40
+      weight: 10
     - identifier: about
       name: About
       url: /about/
-      weight: 50
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
