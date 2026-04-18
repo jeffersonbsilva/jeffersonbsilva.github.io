@@ -29,17 +29,14 @@ If you want to know more about my professional background, feel free to visit my
 
 ### Skills
 
-**Mobile**: React Native (JavaScript, TypeScript), Android (Java), iOS (Swift, Objective-C).
-
-**Frontend**: React.js, Next.js.
-
-**Backend**: Java (Spring Boot).
-
-**Tools**: Git, Testing Frameworks (Jest, Testing Library).
-
-**Languages**: Portuguese (native), English (professional working proficiency), Spanish (basic).
-
-**Miscellaneous**: Agile Methodologies (Scrum, Kanban), SDK Integration, Interviewing, Pair Programming, Code Review, Mobile App Accessibility.
+| Category | Technologies |
+|---|---|
+| **Mobile** | React Native (JS/TS) · Android (Java) · iOS (Swift, Objective-C) |
+| **Frontend** | React.js · Next.js |
+| **Backend** | Java (Spring Boot) |
+| **Tools** | Git · Jest · Testing Library |
+| **Languages** | Portuguese (native) · English · Spanish (basic) |
+| **Practices** | Agile (Scrum, Kanban) · SDK Integration · Pair Programming · Code Review · Mobile Accessibility |
 
 ### [Thoughtworks](https://www.thoughtworks.com/) – Senior Consultant
 
@@ -87,12 +84,11 @@ I earned my degree in Information Technology from [Universidade Federal do Rio G
 
 ## Contact
 
-If you want to get in touch, feel free to reach out through any of the platforms below:
 
-**Email**: <contact@jeffersonbsilva.com>
-
-**X**: [x.com/jeffersonbsilv](https://x.com/jeffersonbsilv)
+**Email**: [contact@jeffersonbsilva.com](mailto:contact@jeffersonbsilva.com)
 
 **LinkedIn**: [linkedin.com/in/jeffersonbrunosilva](https://linkedin.com/in/jeffersonbrunosilva)
+
+**X**: [x.com/jeffersonbsilv](https://x.com/jeffersonbsilv)
 
 **GitHub**: [github.com/jeffersonbsilva](https://github.com/jeffersonbsilva)
