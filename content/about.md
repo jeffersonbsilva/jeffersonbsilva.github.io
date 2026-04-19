@@ -74,7 +74,6 @@ Contributed to the development of a React application to support C-level strateg
 {{< figure
   src="/about/jefferson-graduated.jpg"
   alt="A picture of Jefferson graduating"
-  caption="Jefferson happy after graduating"
   align="center"
     width="500"
     height="auto"
