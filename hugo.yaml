@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: <insert-ga-here>
+googleAnalytics: G-G0WNCY3ZD8
 
 minify:
   disableXML: true
