@@ -9,7 +9,7 @@ hideMeta: true
 showtoc: false
 ---
 
-A selection of professional work I’m proud of, spanning products shipped at scale for millions of real users.
+A few of the products I’ve helped build and improve. They range from banking and travel to accessibility-focused education, but they share the same through line: software that needs to work well for real people at real scale.
 
 ---
 
@@ -23,7 +23,7 @@ A selection of professional work I’m proud of, spanning products shipped at sc
   </div>
 </div>
 
-<p>The loyalty and miles program app for LATAM Airlines, the largest airline in Latin America. I joined as a senior engineer working across major feature releases, the rollout of a proprietary design system, and a broader redesign of the app experience.</p>
+<p>LATAM Pass is the loyalty app for LATAM Airlines, used by travelers across Latin America. I work as a senior engineer across feature delivery, design system rollout, and a broader redesign aimed at making the experience more consistent and more modern.</p>
 
 <div class="project-stat">
   <div>
@@ -38,9 +38,9 @@ A selection of professional work I’m proud of, spanning products shipped at sc
   <img src="/projects/latam-pass/screenshot-3.jpg" alt="LATAM Pass screen 3">
 </div>
 
-<p>My work on LATAM Pass has combined product thinking with technical leadership. I led architectural discovery for major releases, helped drive the adoption of the design system across the app, and contributed to a strategic redesign aimed at making the overall experience more cohesive and modern.</p>
+<p>My role has included leading technical discovery for larger initiatives, shaping implementation plans with the team, and turning new design system patterns into reusable building blocks inside the app. I’ve also contributed directly across the React Native codebase to help ship major releases.</p>
 
-<p>Beyond delivery, I have also invested heavily in team quality and long-term maintainability. That has included mentoring other developers, raising the bar through thoughtful code reviews, and championing accessibility so the app serves a broader range of users well.</p>
+<p>Just as important, I’ve spent time on the work that keeps a product healthy over time: mentoring teammates, reviewing code carefully, and pushing accessibility improvements so the app works better for more people.</p>
 
 </div>
 
@@ -54,7 +54,7 @@ A selection of professional work I’m proud of, spanning products shipped at sc
   </div>
 </div>
 
-<p>A mobile super app for Brazil's largest public bank. I worked across iOS and Android in the cross-platform codebase, contributing to the core banking experience used by tens of millions of customers.</p>
+<p>Banco do Brasil is a mobile banking super app used for everyday financial tasks at national scale. I worked in the shared mobile codebase across iOS and Android, contributing to features used by tens of millions of customers.</p>
 
 <div class="project-stat">
   <div>
@@ -69,9 +69,9 @@ A selection of professional work I’m proud of, spanning products shipped at sc
   <img src="/projects/banco-do-brasil/screenshot-3.jpg" alt="Banco do Brasil screen 3">
 </div>
 
-<p>One of my most impactful contributions at Banco do Brasil was helping build a push notification system capable of reaching more than 40 million users. I also led and supported integrations with third-party SDKs on both iOS and Android, working carefully within the realities of a large, high-traffic banking product.</p>
+<p>One of my biggest contributions was helping build a push notification system that could reach more than 40 million users. I also worked on third-party SDK integrations for both platforms, which meant navigating the constraints of a large, security-sensitive product without slowing delivery.</p>
 
-<p>Alongside feature work, I focused on the foundations that make a product reliable at scale. I improved accessibility and overall user experience, helped strengthen performance and code reliability, and supported the growth of the team through mentoring and close technical collaboration.</p>
+<p>I also gravitated toward the quality layer of the product: accessibility, performance, reliability, and developer support. That meant improving the experience for end users while helping the team make safer, more maintainable changes.</p>
 
 </div>
 
@@ -85,7 +85,7 @@ A selection of professional work I’m proud of, spanning products shipped at sc
   </div>
 </div>
 
-<p>An educational accessibility platform created by a French EdTech company. Cantoo helps students with special needs read, write, and learn through adaptive digital tools. I worked on both the product itself and the public-facing website.</p>
+<p>Cantoo is an educational accessibility platform built for students who need more flexible ways to read, write, and learn. I contributed to both the product and the public-facing website, working in a space where accessibility shaped every decision.</p>
 
 <img class="project-hero" src="/projects/cantoo/hero.avif" alt="Cantoo platform">
 
@@ -94,8 +94,8 @@ A selection of professional work I’m proud of, spanning products shipped at sc
   <img src="/projects/cantoo/screenshot-2.svg" alt="Cantoo reading feature">
 </div>
 
-<p>Within the product, I implemented PDF and EPUB import and export features and improved keyboard navigation to make the experience more accessible and easier to use. The work required balancing technical implementation with the platform's mission of reducing friction for learners who depend on these tools every day.</p>
+<p>In the platform itself, I implemented PDF and EPUB import and export features and improved keyboard navigation. The work was technical, but the goal was always practical: reduce friction for students who rely on these tools every day.</p>
 
-<p>I also built new pages for the company's Next.js website, helping strengthen its public presence and contributing to license sales growth. It was a role that blended product development, accessibility, and business impact in a very tangible way.</p>
+<p>I also built pages for the company’s Next.js website, helping strengthen its public presence and contributing to license sales growth.</p>
 
 </div>
