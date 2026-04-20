@@ -15,7 +15,7 @@ showtoc: false
   height="auto"
 >}}
 
-I'm **Jefferson Bruno Silva**, a Senior Consultant at [Thoughtworks](https://www.thoughtworks.com/). I graduated in Information Technology from [Universidade Federal do Rio Grande do Norte (UFRN)](https://www.ufrn.br/).
+I'm **Jefferson Bruno Silva**, a Senior Consultant at [Thoughtworks](https://www.thoughtworks.com/). I graduated in Information Technology from [Universidade Federal do Rio Grande do Norte (UFRN)](https://www.ufrn.br/). I also write about software engineering on [my blog](/posts/).
 
 Born and based in [Natal, Brazil](https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte), I've always been passionate about technology — from assembling computers as a teenager to creating applications for millions of users around the world.
 
@@ -34,15 +34,15 @@ If you want to know more about my professional background, feel free to visit my
 | **Mobile** | React Native (JS/TS) · Android (Java) · iOS (Swift, Objective-C) |
 | **Frontend** | React.js · Next.js |
 | **Backend** | Java (Spring Boot) |
-| **Tools** | Git · Jest · Testing Library |
-| **Languages** | Portuguese (native) · English · Spanish (basic) |
+| **Tools** | Git · Xcode · Android Studio · Jest · Testing Library · Firebase · Storybook |
+| **Languages** | Portuguese (native) · English (professional working proficiency) · Spanish (basic) |
 | **Practices** | Agile (Scrum, Kanban) · SDK Integration · Pair Programming · Code Review · Mobile Accessibility |
 
 ### [Thoughtworks](https://www.thoughtworks.com/) – Senior Consultant
 
 *2025 – Current* – Porto Alegre, Brazil
 
-Building a cross-platform mobile application for the largest airline in Latin America using React Native, TypeScript, and JavaScript. Key leadership achievements include leading architectural discovery for major releases, spearheading the adoption of a proprietary design system, and guiding a strategic redesign initiative. I also mentored developers, ensured high-standard code quality through rigorous reviews, and championed app accessibility to ensure an inclusive experience for millions of users across the region.
+I work on the React Native app for the largest airline in Latin America, contributing to feature delivery, design system adoption, and an ongoing app redesign. Beyond shipping code, I've led architectural discovery for major releases and pushed accessibility improvements to make the app work better for more users. I also mentor teammates and put a lot of care into code review.
 
 ### [Capgemini](https://www.capgemini.com/) – Digital Solutions Consultant IV
 
