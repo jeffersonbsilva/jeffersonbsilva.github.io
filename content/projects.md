@@ -23,7 +23,7 @@ A few of the products I’ve helped build and improve. They range from banking a
   </div>
 </div>
 
-<p>LATAM Pass is the loyalty app for LATAM Airlines, used by travelers across Latin America. I work as a senior engineer across feature delivery, design system rollout, and a broader redesign aimed at making the experience more consistent and more modern.</p>
+<p>LATAM Pass is the loyalty app for LATAM Airlines, used by travelers across Latin America. I work as a senior engineer across feature delivery, design system rollout, and a broader redesign aimed at making the experience more consistent and modern.</p>
 
 <div class="project-stat">
   <div>
@@ -38,7 +38,7 @@ A few of the products I’ve helped build and improve. They range from banking a
   <img src="/projects/latam-pass/screenshot-3.jpg" alt="LATAM Pass screen 3">
 </div>
 
-<p>My role has included leading technical discovery for larger initiatives, shaping implementation plans with the team, and turning new design system patterns into reusable building blocks inside the app. I’ve also contributed directly across the React Native codebase to help ship major releases.</p>
+<p>My role has included leading technical discovery for larger initiatives, shaping implementation plans with the team, and turning new design system patterns into reusable building blocks. I’ve also contributed directly across the React Native codebase to help ship major releases.</p>
 
 <p>Just as important, I’ve spent time on the work that keeps a product healthy over time: mentoring teammates, reviewing code carefully, and pushing accessibility improvements so the app works better for more people.</p>
 
@@ -69,9 +69,9 @@ A few of the products I’ve helped build and improve. They range from banking a
   <img src="/projects/banco-do-brasil/screenshot-3.jpg" alt="Banco do Brasil screen 3">
 </div>
 
-<p>One of my biggest contributions was helping build a push notification system that could reach more than 40 million users. I also worked on third-party SDK integrations for both platforms, which meant navigating the constraints of a large, security-sensitive product without slowing delivery.</p>
+<p>One of my biggest contributions was helping build a push notification system. I also worked on third-party SDK integrations for both platforms, which meant navigating the constraints of a large, security-sensitive product without slowing delivery.</p>
 
-<p>I also gravitated toward the quality layer of the product: accessibility, performance, reliability, and developer support. That meant improving the experience for end users while helping the team make safer, more maintainable changes.</p>
+<p>I also invested in the quality layer of the product: accessibility, performance, reliability, and developer support. That meant improving the experience for end users while helping the team make safer, more maintainable changes.</p>
 
 </div>
 
@@ -94,7 +94,7 @@ A few of the products I’ve helped build and improve. They range from banking a
   <img src="/projects/cantoo/screenshot-2.svg" alt="Cantoo reading feature">
 </div>
 
-<p>In the platform itself, I implemented PDF and EPUB import and export features and improved keyboard navigation. The work was technical, but the goal was always practical: reduce friction for students who rely on these tools every day.</p>
+<p>In the platform itself, I implemented PDF and EPUB import and export features and improved keyboard navigation — all aimed at reducing friction for students who rely on these tools every day.</p>
 
 <p>I also built pages for the company’s Next.js website, helping strengthen its public presence and contributing to license sales growth.</p>
 
